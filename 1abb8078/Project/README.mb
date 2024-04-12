@@ -1,0 +1,7 @@
+HOW TO RUN THE PROGRAM:
+
+- One Computer should run main.go file before the others until it has spawned a primary and a connection between client and primary has been established
+    - This computer needs to be connected to the internet under initialization 
+- Run all remaining main.go files, one by one on the the computers
+
+- Run with: go run main.go in bash terminal within "Project" folder where "go.mod" file resides
