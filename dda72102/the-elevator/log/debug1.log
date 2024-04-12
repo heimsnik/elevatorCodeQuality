@@ -1,0 +1,16 @@
+2024/03/13 22:11:16 log_functions.go:22: Node: | 1 | MASTER | has connected nodes | 1 (Role: MASTER, ElevatorInfo: {Direction:0 Floor:2 State:0 Obstructed:false}, TimeUntilDisconnect: 2) | 
+2024/03/13 22:11:16 log_functions.go:22: Node: | 1 | MASTER | has GQ:
+2024/03/13 22:11:18 log_functions.go:22: Node: | 1 | MASTER | has connected nodes | 1 (Role: MASTER, ElevatorInfo: {Direction:0 Floor:2 State:0 Obstructed:false}, TimeUntilDisconnect: 2) | 
+2024/03/13 22:11:18 log_functions.go:22: Node: | 1 | MASTER | has GQ:
+2024/03/13 22:11:20 log_functions.go:22: Node: | 1 | MASTER | has connected nodes | 1 (Role: MASTER, ElevatorInfo: {Direction:0 Floor:2 State:0 Obstructed:false}, TimeUntilDisconnect: 2) | 
+2024/03/13 22:11:20 log_functions.go:22: Node: | 1 | MASTER | has GQ:
+2024/03/13 22:11:22 log_functions.go:22: Node: | 1 | MASTER | has connected nodes | 1 (Role: MASTER, ElevatorInfo: {Direction:0 Floor:2 State:0 Obstructed:false}, TimeUntilDisconnect: 2) | 
+2024/03/13 22:11:22 log_functions.go:22: Node: | 1 | MASTER | has GQ:
+2024/03/13 22:11:24 log_functions.go:22: Node: | 1 | MASTER | has connected nodes | 1 (Role: MASTER, ElevatorInfo: {Direction:0 Floor:2 State:0 Obstructed:false}, TimeUntilDisconnect: 2) | 
+2024/03/13 22:11:24 log_functions.go:22: Node: | 1 | MASTER | has GQ:
+2024/03/13 22:11:26 log_functions.go:22: Node: | 1 | MASTER | has connected nodes | 1 (Role: MASTER, ElevatorInfo: {Direction:0 Floor:2 State:0 Obstructed:false}, TimeUntilDisconnect: 2) | 
+2024/03/13 22:11:26 log_functions.go:22: Node: | 1 | MASTER | has GQ:
+2024/03/13 22:11:28 log_functions.go:22: Node: | 1 | MASTER | has connected nodes | 1 (Role: MASTER, ElevatorInfo: {Direction:0 Floor:2 State:0 Obstructed:false}, TimeUntilDisconnect: 2) | 
+2024/03/13 22:11:28 log_functions.go:22: Node: | 1 | MASTER | has GQ:
+2024/03/13 22:11:30 log_functions.go:22: Node: | 1 | MASTER | has connected nodes | 1 (Role: MASTER, ElevatorInfo: {Direction:0 Floor:2 State:0 Obstructed:false}, TimeUntilDisconnect: 2) | 
+2024/03/13 22:11:30 log_functions.go:22: Node: | 1 | MASTER | has GQ:

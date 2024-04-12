@@ -1,0 +1,20 @@
+{
+  "slaveport": 20013,
+  "masterport": 20014,
+  "elevatorport": 15657,
+  "priority": 1,
+  "nodes": 3,
+  "floors": 4,
+  "reassignperiod":8,
+  "connectionperiod":2,
+  "immobileperiod":3,
+  "sendperiod":500,
+  "getsetperiod":5,
+  "assignbreakoutperiod":10,
+  "mostresponsiveperiod":500,
+  "mediumresponsiveperiod":1500,
+  "leastresponsiveperiod":5000,
+  "terminationperiod":10,
+  "maxallowedelevatorerrors": 2,
+  "maxallowednodeerrors":1
+}
