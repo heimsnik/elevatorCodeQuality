@@ -1,0 +1,14 @@
+1abb8078
+9
+File structure make the structure obvious
+Smart devide into primary and backup, and let its client relate to both
+Main file should not be only function call
+Good naming, in ...Main, easy to see functionality in select statement
+Everything happens from the perspective of this select case, very easy to follow
+Great coherence and completeness, modules seems to do exactly what it is supposed to
+Alsmost every function is pure, doing what it is supposed to (maybe except event_primaryAlive)
+Very easy to follow structure, and relatively easy to follow
+Naming smart with event, but some comments to maintain
+Sometimes switching between camelCase and snake_case is arbitrary
+
+09a72ca3
