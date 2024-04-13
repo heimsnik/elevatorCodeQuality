@@ -12,3 +12,9 @@ Naming smart with event, but some comments to maintain
 Sometimes switching between camelCase and snake_case is arbitrary
 
 09a72ca3
+
+Very hard to understand where the entry point is, no main file or readme documenting understand. Seems like the directory is not complete, files are missing (motor.go for example)
+Very hard to find the execution flow, i.e. only function declarations in executions
+The way is is built does not makes scense, any dependencies very inertviened
+Somewhat easy to see that it is P2P, but other things are hard to see, i.e. how orders get assigned
+
