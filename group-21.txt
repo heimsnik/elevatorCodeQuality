@@ -12,3 +12,5 @@ Naming smart with event, but some comments to maintain
 Sometimes switching between camelCase and snake_case is arbitrary
 
 09a72ca3
+Very hard to understand where the entry point is, no main file or readme documenting understand. Seems like the directory is not complete, files are missing (motor.go for example)
+
