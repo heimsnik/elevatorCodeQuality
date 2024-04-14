@@ -22,4 +22,4 @@ Naming are not too bad, but some names as handleOrder() does not describe what i
 
 13e229e2
 
-Easy to see connected componets in run_master_backup(), the overview is always updated on new events
+Easy to see connected componets in run_master_backup(), the overview is always updated on new events.
