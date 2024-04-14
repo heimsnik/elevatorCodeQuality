@@ -20,7 +20,6 @@ The way is is built does not makes scense, any dependencies very inertviened
 Somewhat easy to see that it is P2P, but other things are hard to see, i.e. how orders get assigned
 Naming are not too bad, but some names as handleOrder() does not describe what it actually does
 
-balls
 13e229e2
-
 Easy to see connected componets in run_master_backup(), the overview is always updated on new events
+By calling the process pair functionality master backup, in addition to the project having remnants of master-slave functionality, the project looks like a master-slave system at first glance, rather than peer-to-peer.
