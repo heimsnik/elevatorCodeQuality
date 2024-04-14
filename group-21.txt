@@ -21,8 +21,9 @@ Somewhat easy to see that it is P2P, but other things are hard to see, i.e. how 
 Naming are not too bad, but some names as handleOrder() does not describe what it actually does
 
 13e229e2
+7
 Easy to see connected componets in run_master_backup(), the overview is always updated on new events.
-The module deviding is done well, but could be done more in Run() function, more layers of abstraction could be added.
+By calling the process pair functionality master backup, in addition to the project having remnants of master-slave functionality, the project looks like a master-slave system at first glance, rather than peer-to-peer.The module deviding is done well, but could be done more in Run() function, more layers of abstraction could be added.
 Easy to see from the outside how to use most of the functions in the modules
 Functions are pure, and all changes made to states are done in Run(), easy to track information flow
 Apart from Run() easy follow the code
