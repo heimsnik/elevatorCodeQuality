@@ -28,3 +28,32 @@ Easy to see from the outside how to use most of the functions in the modules
 Functions are pure, and all changes made to states are done in Run(), easy to track information flow
 Apart from Run() easy follow the code
 Only two layers and Run() using modles makes the flow of information easy traceable
+
+637c9689
+8
+Not easy to see how modules are connected, and overall how they have structured their program
+Somewhat easy to find functionality, but primary-backup trasitions could be clearer
+Modules appears to deal with only one subject, but sometimes wrong subject, i.e. udp.go
+Hard to keep track of state changes, as many functions are non-pure
+Code is easy to follow
+No central control makes flow of information hard to track
+Good naming of functions with prefix describing the functionality, but sometimes too much?
+
+a21c5c32
+9
+Easy to get good overview of the project and how modules are connected.
+Modules appear to do one thing and only what it should
+Some functions are global, even if they dont need to
+There are functions that is not pure
+Very easy to follow the code and what it executes, extensive select-case statements makes it easy
+A lot of comments, maybe too much and sometimes repetition of code
+
+dda72102
+7
+Key point: could be split into more modules, and make them less dependent of each other
+Functionality is okey after having read readme.md, but could have been better. Readme provides insight into conventions and functionality, however this should be more self-explanatory
+Modules (node, elevator) only do things realted to its respective tasks
+The two modules are also very complete, and has no signs of lack of functionality
+Tracability and direction is okay, but suffers from design choice
+Naming and comments useful and easy to maintain
+Code sometimes hard to follow, i.e. in F_RunNode()
